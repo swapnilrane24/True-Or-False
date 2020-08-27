@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QuestionsCollection>
+  <Questions>
+    <Question name ="Japan is a country.">
+    <Answer>True</Answer>
+    </Question>
+
+    <Question name ="Pokemon are real.">
+    <Answer>False</Answer>
+    </Question>
+
+    <Question name ="Kung Fu was originated in India.">
+    <Answer>False</Answer>
+    </Question>
+
+    <Question name ="Humans can breath under water.">
+    <Answer>False</Answer>
+    </Question>
+
+    <Question name ="Coconut is a stone.">
+    <Answer>False</Answer>
+    </Question>
+
+    <Question name ="Indian Ocean is a ocean.">
+    <Answer>True</Answer>
+    </Question>
+
+    <Question name ="2+2 = 4.">
+    <Answer>True</Answer>
+    </Question>
+
+    <Question name ="Earth is a planet.">
+    <Answer>True</Answer>
+    </Question>
+
+  </Questions>
+</QuestionsCollection>
